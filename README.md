@@ -2,6 +2,8 @@
 
 Atividades da Unidade 9 (Docker) do curso de DevOps da FAP, Turma 5 (Aponti / CESAR School).
 
+As duas atividades estão no mesmo repositório porque usei a mesma VM para as duas: o Vagrantfile e o script que instala o Docker são compartilhados.
+
 Fiz as duas atividades dentro de uma VM criada com Vagrant (Ubuntu 22.04, 2 GB de RAM, 1 CPU). O Docker é instalado na VM por um script de provisionamento.
 
 ## Estrutura
